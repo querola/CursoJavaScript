@@ -18,11 +18,13 @@ const funcion1 =  new Function('a', 'b', 'return 1 + 2');
 //objetos
 
 const persona1 = {
-    nombre: 'juan'
+    nombre: 'juan',
+    profesion: 'Desarrollador Web'
 }
 
 const persona2 = new Object({
-    nombre : 'Juan'
+    nombre : 'Juan',
+    profesion: 'desarrpññadpr web'
 });
 
 //Arreglos
